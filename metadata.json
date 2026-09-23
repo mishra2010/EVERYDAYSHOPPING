@@ -1,0 +1,6 @@
+{
+  "name": "Everyday Shopping",
+  "description": "Everyday Shopping is a modern, aesthetic e-commerce shopping platform inspired by Shopify usability, featuring artisanal home goods, electronics, fashion, and everyday collections with dynamic discovery, deals, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
